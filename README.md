@@ -4,7 +4,7 @@
 A simple memory card game built using HTML, CSS, and JavaScript.
 ## 🔗 Links
 
-https://twitter.com/
+https://shashank-project-github.github.io/memory_game/
 
 ## Overview
 This project is a classic memory card game where players need to find matching pairs of cards. It features:
