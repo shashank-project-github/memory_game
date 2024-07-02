@@ -19,5 +19,5 @@ This project is a classic memory card game where players need to find matching p
 ## Screenshots
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](images/memorycardgame.png)
 
